@@ -3,9 +3,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "AlvarezTech",
+    name: "RiverboatMedia",
     products: [
-        .executable(name: "AlvarezTech", targets: ["AlvarezTech"])
+        .executable(name: "RiverboatMedia", targets: ["RiverboatMedia"])
     ],
     dependencies: [
         .package(url: "https://github.com/johnsundell/publish.git", from: "0.5.0"),
@@ -13,7 +13,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "AlvarezTech",
+            name: "RiverboatMedia",
             dependencies: ["Publish", "SplashPublishPlugin"]
         )
     ]

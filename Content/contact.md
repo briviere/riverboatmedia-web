@@ -3,15 +3,15 @@ title: Contact
 ---
 Comments, questions or feedback, happy to help you out!
 
-The best way to reach me is via [@alvarez_tech](https://twitter.com/alvarez_tech) on Twitter.
+The best way to reach me is via [@briviere](https://twitter.com/briviere) on Twitter.
 
-<a href="https://twitter.com/messages/compose?recipient_id=233763623&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="alvarez_tech" data-show-count="false">Message @alvareztech</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p></p>
+<a href="https://twitter.com/messages/compose?recipient_id=233763623&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="briviere" data-show-count="false">Message @briviere</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p></p>
 
 Social networks:
 
-* [GitHub](https://github.com/alvareztech)
-* [LinkedIn](https://www.linkedin.com/in/alvareztech/)
+* [GitHub](https://github.com/briviere)
+* [LinkedIn](www.linkedin.com/in/brian-riviere-a1560a2)
 
 You can also send me an email.
 
-* [daniel@alvarez.tech](mailto:daniel@alvarez.tech)
+* [briviere@riverboatmedia.ca](mailto:briviere@riverboatmedia.ca)
