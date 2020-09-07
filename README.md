@@ -1,6 +1,4 @@
 # RIVERBOATMEDIA
-
-[![Actions 
 ![Swift 5.2](https://img.shields.io/badge/Swift-5.1-orange.svg)
 ![Swift Package Manager compatible](https://img.shields.io/badge/swiftpm-compatible-brightgreen.svg)
 ![Platforms](https://img.shields.io/badge/platforms-mac+linux-brightgreen.svg)
