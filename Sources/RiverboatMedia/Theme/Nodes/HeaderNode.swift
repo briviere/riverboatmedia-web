@@ -65,7 +65,7 @@ extension Node where Context: HTML.BodyContext {
                                 ),
                                 .a(
                                     .class("social-link social-link-fb"),
-                                    .href("https://www.facebook.com/briviere"),
+                                    .href("https://www.facebook.com/brian.riviere1"),
                                     .target(.blank),
                                     .element(named: "svg", nodes: [
                                         .attribute(named: "viewBox", value: "0 0 32 32"),

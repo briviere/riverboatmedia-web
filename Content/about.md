@@ -12,4 +12,4 @@ I'm Brian Riviere, a software engineer who works as a developer creating various
 
 This version of the site was generated using Swift code with [Publish](https://github.com/JohnSundell/Publish).
 
-This project is open source and it is in development process 👨‍💻, you can help me [here](https://github.com/briviere/riverboatmedia). If you find an issue, please you can post it [here](https://github.com/briviere/riverboatmedia/issues/new).
+This project is open source and it is in development process 👨‍💻, you can help me [here](https://github.com/briviere/riverboatmedia-web). If you find an issue, please you can post it [here](https://github.com/briviere/riverboatmedia-web/issues/new).
